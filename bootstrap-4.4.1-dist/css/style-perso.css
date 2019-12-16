@@ -1,0 +1,29 @@
+body {
+  padding-top: 80px;
+  height: 2000vh;
+}
+.bg-dark {
+  background: #555 !important;
+}
+.btn-secondary {
+  background-color: blue;
+  border: 0;
+  border-radius: 0;
+}
+.btn-secondary:hover {
+  background-color: skyblue;
+  border-radius: 0;
+}
+.container,
+.container-fluid {
+  border: 2px solid red;
+}
+.row {
+  border: 2px solid blue;
+}
+.vert {
+  background: green;
+}
+.jaune {
+  background: gold;
+}
